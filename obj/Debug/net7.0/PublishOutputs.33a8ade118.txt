@@ -1,0 +1,7 @@
+D:\KTI_2023\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.exe
+D:\KTI_2023\MyWebApp\bin\Debug\net7.0\publish\appsettings.Development.json
+D:\KTI_2023\MyWebApp\bin\Debug\net7.0\publish\appsettings.json
+D:\KTI_2023\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.dll
+D:\KTI_2023\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.deps.json
+D:\KTI_2023\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.runtimeconfig.json
+D:\KTI_2023\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.pdb

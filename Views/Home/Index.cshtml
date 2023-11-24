@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    @if(User.Identity.IsAuthenticated){
+        <p>Username : @User.Identity.Name</p>
+    }
+    <h1 class="display-4">Selamat Datang</h1>
+    <p>Belajar ASP .NET Core</p>
+</div>
